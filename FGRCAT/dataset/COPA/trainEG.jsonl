@@ -1,0 +1,500 @@
+{"index": "train-0", "cause": "It is very fragile.", "effect": "The item is wrapped in bubble wrap.", "conceptual_explanation": "Fragile item needs protection."}
+{"index": "train-1", "cause": "I found a ticket stub.", "effect": "I emptied my pocket.", "conceptual_explanation": "Finding ticket prompts pocket clearing."}
+{"index": "train-2", "cause": "Termites ate through the wood in the house.", "effect": "Termites invaded the house.", "conceptual_explanation": "Wood damage invites termite infestation."}
+{"index": "train-3", "cause": "The patrol checked their passports.", "effect": "The passenger arrives at the border.", "conceptual_explanation": "Passport check enables border crossing."}
+{"index": "train-4", "cause": "It was a holiday.", "effect": "The office is closed.", "conceptual_explanation": "Holiday leads to office closure."}
+{"index": "train-5", "cause": "She skipped the rope.", "effect": "The girl was exhausted.", "conceptual_explanation": "Skipping rope causes exhaustion."}
+{"index": "train-6", "cause": "She walked out of the team.", "effect": "There is no place for the woman to line up.", "conceptual_explanation": "Leaving team leaves woman without place."}
+{"index": "train-7", "cause": "The baby soiled his diaper.", "effect": "The girl squeezed her nose.", "conceptual_explanation": "Diaper soiling leads to nose squeezing."}
+{"index": "train-8", "cause": "The audience clapped their hands to the music.", "effect": "The band played their hit song.", "conceptual_explanation": "Audience clapping prompts band performance."}
+{"index": "train-9", "cause": "The girl brought an apple to the teacher.", "effect": "The girl wanted to thank her math teacher.", "conceptual_explanation": "Bringing apple expresses gratitude."}
+{"index": "train-10", "cause": "Their camp consultant told them a ghost story.", "effect": "The young campers are scared.", "conceptual_explanation": "Ghost story telling induces fear."}
+{"index": "train-11", "cause": "He had a concussion.", "effect": "The man bumped his head.", "conceptual_explanation": "Concussion causes head bump."}
+{"index": "train-12", "cause": "My bank account is empty.", "effect": "My check was declined.", "conceptual_explanation": "Empty bank account leads to declined check."}
+{"index": "train-13", "cause": "He deleted the spam.", "effect": "The man's email inbox was flooded with spam.", "conceptual_explanation": "Deleting spam floods email inbox."}
+{"index": "train-14", "cause": "He was exposed to this disease.", "effect": "The sailor was quarantined.", "conceptual_explanation": "Disease exposure leads to quarantine."}
+{"index": "train-15", "cause": "She memorized it to herself.", "effect": "The girl remembered the password.", "conceptual_explanation": "Memorizing leads to password recall."}
+{"index": "train-16", "cause": "The glass became full.", "effect": "I poured water into the glass.", "conceptual_explanation": "Filling glass with water."}
+{"index": "train-17", "cause": "He was thinking about what his friend said.", "effect": "When his friend finished speaking, the man remained silent.", "conceptual_explanation": "Thoughts affect response."}
+{"index": "train-18", "cause": "I feel guilty.", "effect": "The accident was my fault.", "conceptual_explanation": "Guilt indicates responsibility."}
+{"index": "train-19", "cause": "A section of the chain is broken.", "effect": "The chain broke.", "conceptual_explanation": "Chain breaks due to section damage."}
+{"index": "train-20", "cause": "They are tired of arguing.", "effect": "The couple decided to compromise.", "conceptual_explanation": "Argument fatigue leads to compromise."}
+{"index": "train-21", "cause": "She hired a campaign planner.", "effect": "The woman decided to run for public office.", "conceptual_explanation": "Hiring planner motivates decision to run."}
+{"index": "train-22", "cause": "He packed his warm clothes into his suitcase.", "effect": "The man expected the weather to be very cold during his journey.", "conceptual_explanation": "Packing warm clothes for cold weather."}
+{"index": "train-23", "cause": "He raised his hand.", "effect": "The student knows the answer to this question.", "conceptual_explanation": "Raising hand indicates knowledge."}
+{"index": "train-24", "cause": "His eyes went dark.", "effect": "The man's eyes were crying.", "conceptual_explanation": "Dark eyes indicate crying."}
+{"index": "train-25", "cause": "Her opponent accused her of cheating.", "effect": "This player has won five consecutive games.", "conceptual_explanation": "Accusation motivates winning streak."}
+{"index": "train-26", "cause": "He caught the student cheating.", "effect": "The teacher tore up the student's test paper.", "conceptual_explanation": "Cheating detection leads to punishment."}
+{"index": "train-27", "cause": "I was out of breath.", "effect": "I stopped talking.", "conceptual_explanation": "Breathlessness interrupts speech."}
+{"index": "train-28", "cause": "I put it in the microwave.", "effect": "The frozen food is thawed.", "conceptual_explanation": "Microwaving thaws frozen food."}
+{"index": "train-29", "cause": "He wants to take a day off.", "effect": "The employee pretends to be sick.", "conceptual_explanation": "Desire for day off leads to feigned illness."}
+{"index": "train-30", "cause": "She jumped off the diving board.", "effect": "The girl fell into the swimming pool.", "conceptual_explanation": "Jumping off diving board leads to pool entry."}
+{"index": "train-31", "cause": "This is the first day of the movie.", "effect": "The movie tickets are sold out.", "conceptual_explanation": "First day popularity leads to sold out tickets."}
+{"index": "train-32", "cause": "People praised him.", "effect": "The man lost weight.", "conceptual_explanation": "Praise motivates weight loss."}
+{"index": "train-33", "cause": "She climbed up a rope.", "effect": "The girl's hand blistered.", "conceptual_explanation": "Rope climbing causes hand blistering."}
+{"index": "train-34", "cause": "The audience cheered in surprise.", "effect": "Circus performers juggling while riding a unicycle.", "conceptual_explanation": "Audience reaction motivates circus act."}
+{"index": "train-35", "cause": "My friend keeps me waiting.", "effect": "I lost my patience.", "conceptual_explanation": "Waiting leads to impatience."}
+{"index": "train-36", "cause": "They agreed on a treaty.", "effect": "The warring nations demand peace.", "conceptual_explanation": "Treaty agreement prompts peace demand."}
+{"index": "train-37", "cause": "He became lethargic.", "effect": "The man took sleeping pills.", "conceptual_explanation": "Lethargy prompts sleeping pill intake."}
+{"index": "train-38", "cause": "She bruised her knee.", "effect": "The woman bumped into the sofa.", "conceptual_explanation": "Knee bruise leads to sofa collision."}
+{"index": "train-39", "cause": "The balloon burst.", "effect": "The boy squeezed a balloon.", "conceptual_explanation": "Bursting balloon due to squeezing."}
+{"index": "train-40", "cause": "They opened the suitcase.", "effect": "The travelers checked into their hotel room.", "conceptual_explanation": "Suitcase opening precedes hotel check-in."}
+{"index": "train-41", "cause": "The juice spilled out.", "effect": "I bit a peach.", "conceptual_explanation": "Spilling juice prompts peach biting."}
+{"index": "train-42", "cause": "I ate donuts.", "effect": "My hands are sticky.", "conceptual_explanation": "Donut eating causes sticky hands."}
+{"index": "train-43", "cause": "The door opened.", "effect": "I pushed the door.", "conceptual_explanation": "Door opening necessitates pushing."}
+{"index": "train-44", "cause": "The products are made by child labor.", "effect": "Radicals boycotted these products.", "conceptual_explanation": "Child labor leads to product boycott."}
+{"index": "train-45", "cause": "Dust blows out from the hole.", "effect": "I drilled a hole in the wall.", "conceptual_explanation": "Drilling hole creates dust."}
+{"index": "train-46", "cause": "Her sister is very happy.", "effect": "The woman envied her sister.", "conceptual_explanation": "Sister's happiness triggers envy."}
+{"index": "train-47", "cause": "I changed my shirt.", "effect": "I spilled wine on my shirt.", "conceptual_explanation": "Shirt change precedes wine spill."}
+{"index": "train-48", "cause": "The customer handed over the money.", "effect": "The cashier opened the cash register.", "conceptual_explanation": "Money handover prompts cash register opening."}
+{"index": "train-49", "cause": "People gave him change.", "effect": "Street musicians attracted a group of people.", "conceptual_explanation": "Change reception attracts crowd."}
+{"index": "train-50", "cause": "He missed his parents.", "effect": "The little boy cried to his nanny.", "conceptual_explanation": "Parental miss triggers crying."}
+{"index": "train-51", "cause": "The pilot avoided the storm.", "effect": "The pilot's radar spotted a storm.", "conceptual_explanation": "Storm avoidance detected by radar."}
+{"index": "train-52", "cause": "The leaves are stacked on the ground.", "effect": "The tree has fallen leaves.", "conceptual_explanation": "Ground stacking results in fallen leaves."}
+{"index": "train-53", "cause": "He decided to tease his sister.", "effect": "The boy wanted to play a prank.", "conceptual_explanation": "Decision to tease prompts prank desire."}
+{"index": "train-54", "cause": "His father parked the car at the gas station.", "effect": "The child complained that he must go to the bathroom.", "conceptual_explanation": "Car parking necessitates bathroom visit."}
+{"index": "train-55", "cause": "The fish swam towards food.", "effect": "The child sprinkled fish food into the water tank.", "conceptual_explanation": "Food swimming prompts food sprinkling."}
+{"index": "train-56", "cause": "She changed parties.", "effect": "Women's political views have changed.", "conceptual_explanation": "Party change indicates political view shift."}
+{"index": "train-57", "cause": "I poured sewer cleaner into the sink.", "effect": "The sink in the bathroom is clogged.", "conceptual_explanation":"Pouring sewer cleaner into the sink can cause clogging due to potential chemical reactions or the accumulation of debris, leading to blockage."}
+{"index": "train-58", "cause": "The train arrived at the station.", "effect": "The passengers got off the train.", "conceptual_explanation": "Train arrival prompts passenger departure."}
+{"index": "train-59", "cause": "He sealed the envelope.", "effect": "The man pressed the wet mouth of the envelope.", "conceptual_explanation": "Envelope sealing involves pressing mouth."}
+{"index": "train-60", "cause": "They moved to different cities.", "effect": "Friends lost contact.", "conceptual_explanation": "City relocation leads to lost contact."}
+{"index": "train-61", "cause": "She was fired.", "effect": "The accountant mismanaged the company's funds.", "conceptual_explanation": "Firing due to mismanagement."}
+{"index": "train-62", "cause": "I want to check the time.", "effect": "I look at the clock.", "conceptual_explanation": "Time check involves clock viewing."}
+{"index": "train-63", "cause": "I wrote the paper by hand.", "effect": "My hands tightened.", "conceptual_explanation": "Handwriting tightens hands."}
+{"index": "train-64", "cause": "I twisted the wrench.", "effect": "The bolts are tightened.", "conceptual_explanation": "Wrench twisting tightens bolts."}
+{"index": "train-65", "cause": "The couple moved into the apartment.", "effect": "The couple signed an apartment lease.", "conceptual_explanation": "Apartment moving involves lease signing."}
+{"index": "train-66", "cause": "She wants to watch the sunset.", "effect": "The woman was sitting outside the porch.", "conceptual_explanation": "Sunset desire leads to porch sitting."}
+{"index": "train-67", "cause": "He can't swim.", "effect": "The man was wearing a life jacket in the water.", "conceptual_explanation": "Inability to swim necessitates life jacket."}
+{"index": "train-68", "cause": "She pressed the backspace key.", "effect": "The woman made a typo in the word processor.", "conceptual_explanation": "Backspace key usage results in typo."}
+{"index": "train-69", "cause": "She won the game.", "effect": "The girl brags to her friend.", "conceptual_explanation": "Game win leads to bragging."}
+{"index": "train-70", "cause": "It rained all night.", "effect": "The lawn is muddy.", "conceptual_explanation": "Rain results in muddy lawn."}
+{"index": "train-71", "cause": "She forgot to set the alarm clock.", "effect": "The woman overslept.", "conceptual_explanation": "Alarm clock oversight leads to oversleeping."}
+{"index": "train-72", "cause": "He went to the beach.", "effect": "The man put on sunscreen.", "conceptual_explanation": "Beach visit prompts sunscreen application."}
+{"index": "train-73", "cause": "The public accepted this theory.", "effect": "The researchers proved this theory.", "conceptual_explanation": "Theory acceptance motivates proof."}
+{"index": "train-74", "cause": "The referee made a wrong judgment.", "effect": "The fans booed in the game.", "conceptual_explanation": "Wrong judgment results in booing."}
+{"index": "train-75", "cause": "The lock is unlocked.", "effect": "I entered my combination code on the lock.", "conceptual_explanation": "Unlocking lock necessitates code entry."}
+{"index": "train-76", "cause": "The father holds his son's hand.", "effect": "The crowd is increasing.", "conceptual_explanation": "Hand holding prompts crowd growth."}
+{"index": "train-77", "cause": "I shoveled the snow away.", "effect": "Snow blocked the driveway.", "conceptual_explanation": "Snow removal prevents driveway blockage."}
+{"index": "train-78", "cause": "The kayak reached the shore.", "effect": "The kayaker was paddling.", "conceptual_explanation": "Shore arrival involves paddling."}
+{"index": "train-79", "cause": "She hit the fence.", "effect": "The girl's bicycle got out of control.", "conceptual_explanation": "Fence collision leads to loss of control."}
+{"index": "train-80", "cause": "I feel a cool breeze.", "effect": "I turned on the fan.", "conceptual_explanation": "Breeze sensation prompts fan activation."}
+{"index": "train-81", "cause": "They saw a shark.", "effect": "The surfer returned to the beach.", "conceptual_explanation": "Shark sighting prompts beach return."}
+{"index": "train-82", "cause": "The water drains from the bathtub.", "effect": "I pulled off the drain plug in the bathtub.", "conceptual_explanation": "Draining water necessitates plug removal."}
+{"index": "train-83", "cause": "He confessed his infidelity to her.", "effect": "The husband feels guilty for cheating on his wife.", "conceptual_explanation": "Infidelity confession induces guilt."}
+{"index": "train-84", "cause": "I spilled water on the poster.", "effect": "The ink on the poster was wiped away.", "conceptual_explanation": "Water spill leads to ink removal."}
+{"index": "train-85", "cause": "He had a nightmare.", "effect": "The child yelled.", "conceptual_explanation": "Nightmare induces yelling."}
+{"index": "train-86", "cause": "His father educated him.", "effect": "The boy put his feet on the table.", "conceptual_explanation": "Education triggers table foot placement."}
+{"index": "train-87", "cause": "I called his name.", "effect": "My friend turned his head in my direction.", "conceptual_explanation": "Name call prompts head turn."}
+{"index": "train-88", "cause": "The citizens launched a rebellion.", "effect": "The government oppresses its citizens.", "conceptual_explanation": "Rebellion leads to government oppression."}
+{"index": "train-89", "cause": "He screamed for help.", "effect": "The boy got lost in the woods.", "conceptual_explanation": "Help scream indicates lost status."}
+{"index": "train-90", "cause": "She wants to learn about other cultures.", "effect": "This woman has traveled abroad.", "conceptual_explanation": "Cultural curiosity motivates travel."}
+{"index": "train-91", "cause": "His colleague was promoted.", "effect": "The man is jealous of his colleague.", "conceptual_explanation": "Colleague promotion induces jealousy."}
+{"index": "train-92", "cause": "He had hallucinations at that time.", "effect": "The man witnessed aliens.", "conceptual_explanation": "Hallucination leads to alien sighting."}
+{"index": "train-93", "cause": "He put bleach in his hair.", "effect": "The man's hair turned golden.", "conceptual_explanation": "Bleach application changes hair color."}
+{"index": "train-94", "cause": "She felt a burst of inspiration.", "effect": "The artist created a new work.", "conceptual_explanation": "Inspiration burst motivates creation."}
+{"index": "train-95", "cause": "He is going to college.", "effect": "The son left the house.", "conceptual_explanation": "College attendance prompts leaving home."}
+{"index": "train-96", "cause": "An earthquake shook the bookshelves.", "effect": "The book fell off the shelf.", "conceptual_explanation": "Earthquake shaking causes book fall."}
+{"index": "train-97", "cause": "I reset the circuit breaker.", "effect": "There is a power outage in my house.", "conceptual_explanation": "Circuit breaker reset induces power outage."}
+{"index": "train-98", "cause": "It looks very interesting.", "effect": "We took a roller coaster.", "conceptual_explanation": "Interest in coaster motivates ride."}
+{"index": "train-99", "cause": "I heated it in the microwave.", "effect": "The popcorn bag began to crack.", "conceptual_explanation": "Microwave heating causes bag cracking."}
+{"index": "train-100", "cause": "There was a power outage nearby.", "effect": "A tree fell on the wire.", "conceptual_explanation": "Outage prompts tree fall."}
+{"index": "train-101", "cause": "He offended the audience.", "effect": "The speaker made politically incorrect comments.", "conceptual_explanation": "Offensive comments led to audience dissatisfaction."}
+{"index": "train-102", "cause": "A drop of blood formed on my finger.", "effect": "I stabbed myself with a needle.", "conceptual_explanation": "Blood drop led to needle injury."}
+{"index": "train-103", "cause": "It's dead.", "effect": "The fish floated on the surface of the water tank.", "conceptual_explanation": "Death resulted in floating fish."}
+{"index": "train-104", "cause": "He caught a cold.", "effect": "The man's voice sounded hoarse.", "conceptual_explanation": "Cold led to hoarse voice."}
+{"index": "train-105", "cause": "The elevator reaches the designated floor.", "effect": "The elevator door opened.", "conceptual_explanation": "Floor arrival prompts door opening."}
+{"index": "train-106", "cause": "His parents put him in confinement.", "effect": "The teenager slipped out of the house.", "conceptual_explanation": "Confinement resulted in escape."}
+{"index": "train-107", "cause": "The toilet has overflowed.", "effect": "The bathroom was flooded.", "conceptual_explanation": "Overflow led to bathroom flooding."}
+{"index": "train-108", "cause": "The owner tied the puppy to the leash.", "effect": "The puppy stayed near the owner.", "conceptual_explanation": "Leash attachment ensures proximity."}
+{"index": "train-109", "cause": "He stood on the calm lake.", "effect": "The man saw his reflection.", "conceptual_explanation": "Calm lake surface enables reflection."}
+{"index": "train-110", "cause": "I called her back.", "effect": "I missed my girlfriend's call.", "conceptual_explanation": "Call response leads to missed call."}
+{"index": "train-111", "cause": "Their dog ran away from home.", "effect": "The family searched the neighborhood.", "conceptual_explanation": "Dog escape prompts search."}
+{"index": "train-112", "cause": "The weather is cold.", "effect": "When I exhaled, I saw my breath.", "conceptual_explanation": "Cold weather condenses breath."}
+{"index": "train-113", "cause": "They want better working conditions.", "effect": "The employees formed a union.", "conceptual_explanation": "Desire for conditions improvement leads to union formation."}
+{"index": "train-114", "cause": "The kitchen was filled with warm fragrance.", "effect": "I baked an apple pie.", "conceptual_explanation": "Fragrant kitchen inspires pie baking."}
+{"index": "train-115", "cause": "She is wearing high heels.", "effect": "The woman struggled to walk.", "conceptual_explanation": "High heels hinder walking."}
+{"index": "train-116", "cause": "The water is boiling.", "effect": "Steam rises from the pot.", "conceptual_explanation": "Boiling water generates steam."}
+{"index": "train-117", "cause": "I am wearing sandals.", "effect": "All my socks are in the laundry room.", "conceptual_explanation": "Sandal wearing leads to sock absence."}
+{"index": "train-118", "cause": "He lost the support of the voters.", "effect": "The politician's argument was considered absurd.", "conceptual_explanation": "Voter loss results in argument absurdity."}
+{"index": "train-119", "cause": "The couple eloped.", "effect": "Everyone disagrees with the engagement of the couple.", "conceptual_explanation": "Elopement leads to engagement disagreement."}
+{"index": "train-120", "cause": "The millionaire donated money to build it.", "effect": "This building is dedicated to the millionaire.", "conceptual_explanation": "Donation motivates building dedication."}
+{"index": "train-121", "cause": "The salesperson saw the girl put the merchandise in her purse.", "effect": "The salesperson accused the girl of stealing.", "conceptual_explanation": "Observation of action leads to accusation."}
+{"index": "train-122", "cause": "The soldiers were sent to fight.", "effect": "The country declared war on its neighbors.", "conceptual_explanation": "Soldier deployment prompts war declaration."}
+{"index": "train-123", "cause": "A riot broke out in front of the court.", "effect": "The court upheld the controversial ruling.", "conceptual_explanation": "Riot results in ruling affirmation."}
+{"index": "train-124", "cause": "She forgot the cookies in the oven.", "effect": "The girl smelled something burnt.", "conceptual_explanation": "Forgotten cookies lead to burnt smell."}
+{"index": "train-125", "cause": "I rushed in.", "effect": "The rain is pouring down.", "conceptual_explanation": "Rushing inside coincides with rain onset."}
+{"index": "train-126", "cause": "The fire alarm went off.", "effect": "The building was evacuated.", "conceptual_explanation": "Alarm activation prompts evacuation."}
+{"index": "train-127", "cause": "The father kicked his son out of the house.", "effect": "The father hates his son's alcoholism.", "conceptual_explanation": "Son eviction stems from alcoholism."}
+{"index": "train-128", "cause": "The elevator is broken.", "effect": "The lawyer climbed the stairs to her office.", "conceptual_explanation": "Elevator malfunction necessitates stair use."}
+{"index": "train-129", "cause": "His friend interrupted him.", "effect": "The man was very annoyed with his friend.", "conceptual_explanation": "Interruption leads to annoyance."}
+{"index": "train-130", "cause": "The cashier gave the money to the girl.", "effect": "The girl handed the money to the cashier.", "conceptual_explanation": "Money exchange involves reciprocation."}
+{"index": "train-131", "cause": "She was paralyzed in an accident.", "effect": "The woman was put in a wheelchair.", "conceptual_explanation": "Paralysis necessitates wheelchair use."}
+{"index": "train-132", "cause": "This country is commemorating its independence.", "effect": "The citizens hung the national flag outside their homes.", "conceptual_explanation": "Independence commemoration prompts flag display."}
+{"index": "train-133", "cause": "They disappointed their fans.", "effect": "The team lost the game.", "conceptual_explanation": "Fan disappointment coincides with game loss."}
+{"index": "train-134", "cause": "I feel embarrassed.", "effect": "My friend pointed out that I had food stuffed in my teeth.", "conceptual_explanation": "Embarrassment arises from food mishap."}
+{"index": "train-135", "cause": "He forgot to study.", "effect": "The boy failed the history exam.", "conceptual_explanation": "Forgotten study leads to exam failure."}
+{"index": "train-136", "cause": "An earthquake hit the city.", "effect": "The building in the city center collapsed.", "conceptual_explanation": "Earthquake impact results in building collapse."}
+{"index": "train-137", "cause": "He begged her to accept him again.", "effect": "The man's girlfriend broke up with him.", "conceptual_explanation": "Begging for reconciliation leads to breakup."}
+{"index": "train-138", "cause": "Their heads collided.", "effect": "The two children reached out to retrieve the ball at the same time.", "conceptual_explanation": "Collision results from simultaneous ball retrieval."}
+{"index": "train-139", "cause": "The lid of the trash can is not closed.", "effect": "The bear ransacked the trash can.", "conceptual_explanation": "Open lid facilitates bear access."}
+{"index": "train-140", "cause": "It is blunt.", "effect": "The boy polished the pencil.", "conceptual_explanation": "Bluntness prompts pencil sharpening."}
+{"index": "train-141", "cause": "She lost the receipt.", "effect": "The cashier refused to refund the woman.", "conceptual_explanation": "Lost receipt leads to refund denial."}
+{"index": "train-142", "cause": "It left a scar.", "effect": "The scratches on my skin are deep.", "conceptual_explanation": "Injury results in scar formation."}
+{"index": "train-143", "cause": "He was talking to himself.", "effect": "The passengers on the train looked at him strangely.", "conceptual_explanation": "Self-conversation elicits strange looks."}
+{"index": "train-144", "cause": "The ant crawled onto the crumbs.", "effect": "The child left the crumbs on the floor.", "conceptual_explanation": "Crumbs presence attracts ant."}
+{"index": "train-145", "cause": "The woman's sister cried.", "effect": "The woman handed her sister a tissue.", "conceptual_explanation": "Crying triggers tissue provision."}
+{"index": "train-146", "cause": "He is worried about bad breath.", "effect": "The man took mint.", "conceptual_explanation": "Breath concern prompts mint consumption."}
+{"index": "train-147", "cause": "They expected a traffic jam around the theater.", "effect": "The couple left early to watch the show.", "conceptual_explanation": "Anticipated jam prompts early departure."}
+{"index": "train-148", "cause": "Her colleague helped her cover.", "effect": "The woman stayed at home and did not go to work.", "conceptual_explanation": "Colleague assistance leads to work absence."}
+{"index": "train-149", "cause": "He supports their cause.", "effect": "The man signed a petition from a human rights defender.", "conceptual_explanation": "Cause support prompts petition signing."}
+{"index": "train-150", "cause": "He has a catatonic disorder.", "effect": "The actor was flustered before the performance.", "conceptual_explanation": "Disorder results in performance anxiety."}
+{"index": "train-151", "cause": "I unfolded a map.", "effect": "I'm lost.", "conceptual_explanation": "Map unfolding coincides with getting lost."}
+{"index": "train-152", "cause": "It withered.", "effect": "The ripe fruit shook in the sun.", "conceptual_explanation": "Withering leads to fruit fall."}
+{"index": "train-153", "cause": "The engine is overheating.", "effect": "The car broke down.", "conceptual_explanation": "Overheating engine results in breakdown."}
+{"index": "train-154", "cause": "He stayed in bed for a few days.", "effect": "The man hurt his back.", "conceptual_explanation": "Prolonged bed rest leads to back injury."}
+{"index": "train-155", "cause": "It's cold in the house.", "effect": "I made a fire in the fireplace.", "conceptual_explanation": "Cold house temperature prompts fireplace use."}
+{"index": "train-156", "cause": "She has cramps on one side.", "effect": "The woman stopped jogging.", "conceptual_explanation": "Cramps hinder jogging."}
+{"index": "train-157", "cause": "My neighbor invited me in.", "effect": "I knocked on the neighbor's door.", "conceptual_explanation": "Invitation prompts door knocking."}
+{"index": "train-158", "cause": "Her husband misunderstood her concerns.", "effect": "The woman sighed in frustration.", "conceptual_explanation": "Misunderstanding leads to frustration."}
+{"index": "train-159", "cause": "The student answered the question correctly.", "effect": "The teacher praised the students.", "conceptual_explanation": "Correct answer prompts teacher praise."}
+{"index": "train-160", "cause": "She went to the supermarket.", "effect": "The woman ran out of eggs.", "conceptual_explanation": "Supermarket visit leads to egg depletion."}
+{"index": "train-161", "cause": "I gave him a hug.", "effect": "I met an old friend.", "conceptual_explanation": "Hug precedes old friend encounter."}
+{"index": "train-162", "cause": "It looks contaminated.", "effect": "The woman avoided going to the lake.", "conceptual_explanation": "Contamination perception deters lake visit."}
+{"index": "train-163", "cause": "His umbrella is broken.", "effect": "The students got soaked when they came to class.", "conceptual_explanation": "Broken umbrella results in student soaking."}
+{"index": "train-164", "cause": "The user moved the mouse.", "effect": "The cursor on the computer screen has moved.", "conceptual_explanation": "Mouse movement shifts cursor."}
+{"index": "train-165", "cause": "There was an accident on the main road.", "effect": "The driver took a detour.", "conceptual_explanation": "Accident leads to detour choice."}
+{"index": "train-166", "cause": "The sheets are dry.", "effect": "I hung the wet sheets on the outdoor clothesline.", "conceptual_explanation": "Dry sheets prompt wet sheet hanging."}
+{"index": "train-167", "cause": "The sun is very bright.", "effect": "The woman put on her sunglasses.", "conceptual_explanation": "Bright sun motivates sunglasses use."}
+{"index": "train-168", "cause": "He thought it was beautiful.", "effect": "The man stared at the night sky.", "conceptual_explanation": "Beautiful thought leads to night sky contemplation."}
+{"index": "train-169", "cause": "I went to bed very early.", "effect": "I feel exhausted.", "conceptual_explanation": "Early bedtime results in exhaustion."}
+{"index": "train-170", "cause": "His hair has grown longer.", "effect": "The man went to the barber.", "conceptual_explanation": "Longer hair prompts barber visit."}
+{"index": "train-171", "cause": "The boy doesn't like this new classmate.", "effect": "The boy maliciously teased his new classmate.", "conceptual_explanation": "Dislike motivates malicious teasing."}
+{"index": "train-172", "cause": "I am eating cookies.", "effect": "I want to drink a glass of milk.", "conceptual_explanation": "Cookie consumption prompts milk desire."}
+{"index": "train-173", "cause": "The driver turned on the big headlight.", "effect": "It started to rain.", "conceptual_explanation": "Headlight activation coincides with rain onset."}
+{"index": "train-174", "cause": "I parked the car near the entrance.", "effect": "The parking lot of the building is empty.", "conceptual_explanation": "Car parking results in building parking lot emptiness."}
+{"index": "train-175", "cause": "She has committed a writing disorder.", "effect": "The author missed the deadline for submitting the draft.", "conceptual_explanation": "Disorder leads to missed deadline."}
+{"index": "train-176", "cause": "I asked to talk to the supervisor.", "effect": "The colleague hung up my phone.", "conceptual_explanation": "Supervisor request results in phone hang-up."}
+{"index": "train-177", "cause": "The curtains trembled.", "effect": "The wind blew through the open window.", "conceptual_explanation": "Trembling curtains indicate wind presence."}
+{"index": "train-178", "cause": "I blown the fuse.", "effect": "The electricity in my house went out.", "conceptual_explanation": "Fuse blowing results in power outage."}
+{"index": "train-179", "cause": "He raised the barbell above his head.", "effect": "The weightlifter hummed.", "conceptual_explanation": "Barbell lifting prompts weightlifter humming."}
+{"index": "train-180", "cause": "He was confused.", "effect": "The student tried to mentally calculate.", "conceptual_explanation": "Confusion precedes mental calculation attempt."}
+{"index": "train-181", "cause": "The father shook the baby gently.", "effect": "The baby fell asleep.", "conceptual_explanation": "Gentle shaking induces baby sleep."}
+{"index": "train-182", "cause": "The boy was getting wet.", "effect": "The girl threw the water balloon at the boy.", "conceptual_explanation": "Wetness provokes water balloon throwing."}
+{"index": "train-183", "cause": "The photo is blurry.", "effect": "The photographer forgot to use the flash on the camera.", "conceptual_explanation": "Blurry photo results from flash omission."}
+{"index": "train-184", "cause": "I am not in the city.", "effect": "I declined the invitation to the birthday party.", "conceptual_explanation": "Absence from city leads to party refusal."}
+{"index": "train-185", "cause": "I feel energetic.", "effect": "I exercised.", "conceptual_explanation": "Energy prompts exercise engagement."}
+{"index": "train-186", "cause": "Water seeps from it.", "effect": "I squeezed this wet sponge.", "conceptual_explanation": "Water seepage prompts sponge squeezing."}
+{"index": "train-187", "cause": "The resort is on an island.", "effect": "The tourists took the ferry to the resort.", "conceptual_explanation": "Island resort location necessitates ferry use."}
+{"index": "train-188", "cause": "She wants to rebel.", "effect": "This teenager has tattoos.", "conceptual_explanation": "Rebellion motivation leads to tattoo acquisition."}
+{"index": "train-189", "cause": "I became suspicious.", "effect": "An unfamiliar car parked outside my house.", "conceptual_explanation": "Suspicion coincides with unfamiliar car presence."}
+{"index": "train-190", "cause": "The evidence points to him.", "effect": "The criminal surrendered.", "conceptual_explanation": "Evidence implicates surrender."}
+{"index": "train-191", "cause": "He quit sweets.", "effect": "The burly man decided to lose weight.", "conceptual_explanation": "Sweets cessation prompts weight loss determination."}
+{"index": "train-192", "cause": "She slipped and fell.", "effect": "The girl stepped on the ice.", "conceptual_explanation": "Slip leads to ice contact."}
+{"index": "train-193", "cause": "She stayed up late.", "effect": "The woman has bags under her eyes.", "conceptual_explanation": "Late night prompts eye bag formation."}
+{"index": "train-194", "cause": "The volcano erupted.", "effect": "Lava flows from the volcano.", "conceptual_explanation": "Eruption results in lava flow."}
+{"index": "train-195", "cause": "She wants to leave the party.", "effect": "The woman put on shoes.", "conceptual_explanation": "Desire to leave party motivates shoe wearing."}
+{"index": "train-196", "cause": "She let me through the toll booth.", "effect": "I paid the fee to the toll booth attendant.", "conceptual_explanation": "Toll booth passage prompts fee payment."}
+{"index": "train-197", "cause": "He squandered his property.", "effect": "The executive officer went bankrupt.", "conceptual_explanation": "Property squandering leads to bankruptcy."}
+{"index": "train-198", "cause": "The man feels unwell.", "effect": "The man went to see a doctor.", "conceptual_explanation": "Ill feeling prompts doctor visit."}
+{"index": "train-199", "cause": "The house is on fire.", "effect": "I left the bedroom through the window.", "conceptual_explanation": "Fire prompts window escape."}
+{"index": "train-200", "cause": "He took a long bath.", "effect": "The boy's fingers became wrinkled.", "conceptual_explanation": "Extended bath leads to finger wrinkling."}
+{"index": "train-201", "cause": "The milk tastes sour.", "effect": "I spit out milk.", "conceptual_explanation": "Sour taste provokes milk expulsion."}
+{"index": "train-202", "cause": "I was late for work.", "effect": "I missed the bus.", "conceptual_explanation": "Late arrival results in bus missing."}
+{"index": "train-203", "cause": "The car was crashed.", "effect": "The truck collided with the car.", "conceptual_explanation": "Car crash occurs during truck collision."}
+{"index": "train-204", "cause": "They won.", "effect": "This team manipulated the game in a way to their advantage.", "conceptual_explanation": "Victory prompts game manipulation for advantage."}
+{"index": "train-205", "cause": "I unscrewed the hat.", "effect": "The soda bottle hissed.", "conceptual_explanation": "Hat unscrewing leads to bottle hissing."}
+{"index": "train-206", "cause": "He crawled in through an open window.", "effect": "The boy was locked outside the house.", "conceptual_explanation": "Window entry results in exterior lockout."}
+{"index": "train-207", "cause": "The woman peeped through the keyhole in the door.", "effect": "Doorbell rang.", "conceptual_explanation": "Peeping through keyhole coincides with doorbell ringing."}
+{"index": "train-208", "cause": "He was dry cleaned.", "effect": "The man soiled his suit.", "conceptual_explanation": "Dry cleaning leads to suit soiling."}
+{"index": "train-209", "cause": "Toothpaste came out of the tube.", "effect": "The girl squeezed a tube of toothpaste.", "conceptual_explanation": "Tube squeezing results in toothpaste emergence."}
+{"index": "train-210", "cause": "The pacifists staged a protest.", "effect": "The number of civilian deaths caused by the war has skyrocketed.", "conceptual_explanation": "Protest correlates with increased civilian deaths."}
+{"index": "train-211", "cause": "The ribbon looks childish.", "effect": "The girl pulled the ribbon out of her hair.", "conceptual_explanation": "Perceived childishness prompts ribbon removal."}
+{"index": "train-212", "cause": "He looks younger.", "effect": "The man had plastic surgery.", "conceptual_explanation": "Desire for youth motivates plastic surgery."}
+{"index": "train-213", "cause": "The egg hatched.", "effect": "A little chicken came out of the egg.", "conceptual_explanation": "Hatching results in chick emergence."}
+{"index": "train-214", "cause": "he died.", "effect": "The prisoner starved to death.", "conceptual_explanation": "Death occurs due to starvation."}
+{"index": "train-215", "cause": "He fell off the ladder.", "effect": "The man lost his balance on the ladder.", "conceptual_explanation": "Fall leads to ladder imbalance."}
+{"index": "train-216", "cause": "He took a sip of soda.", "effect": "The child hiccups.", "conceptual_explanation": "Soda sipping coincides with hiccups."}
+{"index": "train-217", "cause": "I tremble.", "effect": "A cold wind came in from the window.", "conceptual_explanation": "Trembling accompanies cold wind entry."}
+{"index": "train-218", "cause": "She has good grades.", "effect": "The student won a scholarship to go to university.", "conceptual_explanation": "Good grades prompt scholarship award."}
+{"index": "train-219", "cause": "She is infatuated with him.", "effect": "The girl teased the boy.", "conceptual_explanation": "Infatuation leads to teasing behavior."}
+{"index": "train-220", "cause": "He has no money.", "effect": "The hungry tramp stole the food.", "conceptual_explanation": "Lack of funds motivates food theft."}
+{"index": "train-221", "cause": "I feel lonely.", "effect": "I called my friend to chat.", "conceptual_explanation": "Loneliness prompts friend communication."}
+{"index": "train-222", "cause": "I shook his hand.", "effect": "The man reached out his hand to me.", "conceptual_explanation": "Handshake initiates reciprocal hand extension."}
+{"index": "train-223", "cause": "The frisbee flew towards my head.", "effect": "I avoided.", "conceptual_explanation": "Frisbee flight prompts evasive action."}
+{"index": "train-224", "cause": "She is very worried.", "effect": "The girl bit her nails.", "conceptual_explanation": "Worry leads to nail biting."}
+{"index": "train-225", "cause": "This is the beginning of a new month.", "effect": "I turned a page of the calendar.", "conceptual_explanation": "Month beginning prompts calendar page turn."}
+{"index": "train-226", "cause": "He filed for divorce.", "effect": "The husband found out that his wife had an affair.", "conceptual_explanation": "Divorce filing coincides with affair discovery."}
+{"index": "train-227", "cause": "The ball bounced.", "effect": "The girl dropped the rubber ball.", "conceptual_explanation": "Bounce results in ball dropping."}
+{"index": "train-228", "cause": "She erased her answer.", "effect": "The girl made a mistake in the exam.", "conceptual_explanation": "Answer erasure leads to exam mistake."}
+{"index": "train-229", "cause": "His opponent knocked down the ground.", "effect": "The player turned his opponent down.", "conceptual_explanation": "Opponent knockdown results in rejection."}
+{"index": "train-230", "cause": "They are mature.", "effect": "I picked tomatoes from the vine.", "conceptual_explanation": "Maturity prompts vine harvesting."}
+{"index": "train-231", "cause": "He bought chocolates for his girlfriend.", "effect": "The man wanted to be romantic.", "conceptual_explanation": "Chocolate purchase reflects romantic intent."}
+{"index": "train-232", "cause": "The weather is getting warmer.", "effect": "The mercury in the thermometer rises.", "conceptual_explanation": "Warm weather coincides with thermometer rise."}
+{"index": "train-233", "cause": "The roof of the courthouse was blown off.", "effect": "The tornado passed through the entire town.", "conceptual_explanation": "Courthouse roof removal accompanies town tornado passage."}
+{"index": "train-234", "cause": "His grades have improved.", "effect": "The student received counseling.", "conceptual_explanation": "Grade improvement prompts counseling."}
+{"index": "train-235", "cause": "I wrapped myself in a blanket.", "effect": "I feel very comfortable.", "conceptual_explanation": "Blanket wrapping leads to comfort."}
+{"index": "train-236", "cause": "It becomes shiny.", "effect": "I polished the stone.", "conceptual_explanation": "Shininess prompts stone polishing."}
+{"index": "train-237", "cause": "The coffee tastes sweet.", "effect": "I added sugar to the coffee.", "conceptual_explanation": "Sweet taste prompts sugar addition."}
+{"index": "train-238", "cause": "He was scratched by paper.", "effect": "The man flipped through the newspaper.", "conceptual_explanation": "Scratch leads to newspaper flipping."}
+{"index": "train-239", "cause": "The nail stuck into the wood.", "effect": "I hit the nail with a hammer.", "conceptual_explanation": "Nail insertion necessitates hammering."}
+{"index": "train-240", "cause": "The fisherman collected the fish.", "effect": "The fish bit the thread.", "conceptual_explanation": "Fish collection leads to thread biting."}
+{"index": "train-241", "cause": "She has acne.", "effect": "This teenager is embarrassed to go to school.", "conceptual_explanation": "Acne presence causes school embarrassment."}
+{"index": "train-242", "cause": "I have received good news.", "effect": "My facial expression lit up.", "conceptual_explanation": "Good news receipt prompts facial expression illumination."}
+{"index": "train-243", "cause": "My hands are wet.", "effect": "I wiped my hands with a towel.", "conceptual_explanation": "Wet hands necessitate towel wiping."}
+{"index": "train-244", "cause": "The stool shook under him.", "effect": "The man lost his balance on the stool.", "conceptual_explanation": "Stool shaking leads to balance loss."}
+{"index": "train-245", "cause": "They lost the game.", "effect": "The teammates blamed each other.", "conceptual_explanation": "Game loss prompts blame shifting."}
+{"index": "train-246", "cause": "I regret my mistake.", "effect": "I ask for forgiveness.", "conceptual_explanation": "Regret leads to forgiveness request."}
+{"index": "train-247", "cause": "He kept talking about himself.", "effect": "This woman is tired of her date.", "conceptual_explanation": "Self-centeredness leads to date fatigue."}
+{"index": "train-248", "cause": "She has dimples.", "effect": "The girl flashed a smile.", "conceptual_explanation": "Dimples presence prompts smile display."}
+{"index": "train-249", "cause": "It passed the mine.", "effect": "The enemy ship exploded.", "conceptual_explanation": "Mine passage coincides with ship explosion."}
+{"index": "train-250", "cause": "He stepped on broken glass.", "effect": "The man pierced his foot.", "conceptual_explanation": "Glass stepping results in foot piercing."}
+{"index": "train-251", "cause": "They discovered the identity of the murderer.", "effect": "The detectives dusted the crime scene to show fingerprints.", "conceptual_explanation": "Murderer identity discovery prompts crime scene dusting."}
+{"index": "train-252", "cause": "I took a detour.", "effect": "The traffic on the highway is heavy.", "conceptual_explanation": "Detouring coincides with heavy highway traffic."}
+{"index": "train-253", "cause": "Many people face unemployment.", "effect": "The country's economy has declined.", "conceptual_explanation": "Unemployment increase correlates with economic decline."}
+{"index": "train-254", "cause": "They were about to walk into the oncoming traffic.", "effect": "The traffic controller whistled to the children.", "conceptual_explanation": "Potential traffic collision prompts whistle blowing."}
+{"index": "train-255", "cause": "He made a satirical comment.", "effect": "I rolled my eyes at my friend.", "conceptual_explanation": "Satirical comment leads to eye rolling."}
+{"index": "train-256", "cause": "The driver was stuck on the road.", "effect": "The car has run out of gasoline.", "conceptual_explanation": "Road blockade coincides with gas depletion."}
+{"index": "train-257", "cause": "The baby was delivered.", "effect": "The woman started giving birth.", "conceptual_explanation": "Delivery precedes birth initiation."}
+{"index": "train-258", "cause": "It's windy outside.", "effect": "The man's hat was blown off.", "conceptual_explanation": "Windiness causes hat displacement."}
+{"index": "train-259", "cause": "She received an invitation.", "effect": "The girl attended the birthday party of her classmate.", "conceptual_explanation": "Invitation receipt prompts party attendance."}
+{"index": "train-260", "cause": "His mother took his temperature.", "effect": "The boy's forehead is hot.", "conceptual_explanation": "Temperature taking coincides with hot forehead discovery."}
+{"index": "train-261", "cause": "He wants to impress his date.", "effect": "The man sprayed cologne.", "conceptual_explanation": "Desire for impression leads to cologne spraying."}
+{"index": "train-262", "cause": "I found a flashlight.", "effect": "The electricity in the house went out.", "conceptual_explanation": "Flashlight discovery coincides with power outage."}
+{"index": "train-263", "cause": "The mother gave birth to twins.", "effect": "The family moved into a larger house.", "conceptual_explanation": "Twin birth leads to larger house occupancy."}
+{"index": "train-264", "cause": "She wants to save energy.", "effect": "The marathon runner kept a slow pace.", "conceptual_explanation": "Energy saving motive prompts pace reduction."}
+{"index": "train-265", "cause": "A bag of French fries is stuck.", "effect": "The boy kicked the vending machine.", "conceptual_explanation": "Stuck fries prompt vending machine kicking."}
+{"index": "train-266", "cause": "I gave him a hug.", "effect": "My friend's dog died.", "conceptual_explanation": "Hug coincides with dog death."}
+{"index": "train-267", "cause": "He paid in cash.", "effect": "The merchant's credit card was rejected.", "conceptual_explanation": "Cash payment leads to card rejection."}
+{"index": "train-268", "cause": "He kicked his toe.", "effect": "The man cursed.", "conceptual_explanation": "Toe kicking results in swearing."}
+{"index": "train-269", "cause": "His brother was admitted to law school.", "effect": "The man is proud of his brother.", "conceptual_explanation": "Brother's law school admission prompts pride."}
+{"index": "train-270", "cause": "She went to the library.", "effect": "This girl wants to understand the solar system.", "conceptual_explanation": "Library visit indicates interest in solar system understanding."}
+{"index": "train-271", "cause": "I put tape on the back of the poster.", "effect": "The poster is stuck on the wall.", "conceptual_explanation": "Tape application leads to poster adherence."}
+{"index": "train-272", "cause": "The architect built this building.", "effect": "The client approved the architect's building plan.", "conceptual_explanation": "Building construction prompts building plan approval."}
+{"index": "train-273", "cause": "His hands were shaking.", "effect": "The man dropped the spoon.", "conceptual_explanation": "Hand shaking leads to spoon dropping."}
+{"index": "train-274", "cause": "The board found his successor.", "effect": "The CEO of the company resigned.", "conceptual_explanation": "Successor discovery coincides with CEO resignation."}
+{"index": "train-275", "cause": "I sat down in the back row.", "effect": "I was late for class.", "conceptual_explanation": "Back row seating results in class lateness."}
+{"index": "train-276", "cause": "His family paid his bail.", "effect": "The man was released from prison.", "conceptual_explanation": "Bail payment leads to prison release."}
+{"index": "train-277", "cause": "Their house is on fire.", "effect": "The family lost all of its property.", "conceptual_explanation": "House fire results in property loss."}
+{"index": "train-278", "cause": "The can was crushed.", "effect": "I stepped on the aluminum can.", "conceptual_explanation": "Can crushing leads to can stepping."}
+{"index": "train-279", "cause": "She learned communication skills.", "effect": "The girl joined the debate team.", "conceptual_explanation": "Skill acquisition prompts debate team enrollment."}
+{"index": "train-280", "cause": "I listened to music.", "effect": "My mood improved.", "conceptual_explanation": "Music listening coincides with mood enhancement."}
+{"index": "train-281", "cause": "They held an auction.", "effect": "The charity set a fundraising goal.", "conceptual_explanation": "Auction holding prompts fundraising goal setting."}
+{"index": "train-282", "cause": "The passengers screamed.", "effect": "The roller coaster descended quickly from the steep slope.", "conceptual_explanation": "Passenger screaming coincides with coaster descent."}
+{"index": "train-283", "cause": "When I left the house, I slammed the door.", "effect": "I am very angry.", "conceptual_explanation": "Door slamming leads to anger."}
+{"index": "train-284", "cause": "He got up very early.", "effect": "The man wants to watch the sunrise.", "conceptual_explanation": "Early rising prompts sunrise viewing."}
+{"index": "train-285", "cause": "The paper is creased.", "effect": "I folded the paper.", "conceptual_explanation": "Paper creasing leads to paper folding."}
+{"index": "train-286", "cause": "Leaders of other countries sent emergency rescue.", "effect": "This country has endured a natural disaster.", "conceptual_explanation": "Emergency rescue dispatch indicates natural disaster occurrence."}
+{"index": "train-287", "cause": "He fell into the swimming pool.", "effect": "The boy's clothes were soaked.", "conceptual_explanation": "Pool fall results in clothes soaking."}
+{"index": "train-288", "cause": "It was supposed to be returned to the library.", "effect": "The student hurriedly finished the book.", "conceptual_explanation": "Library return deadline prompts book completion."}
+{"index": "train-289", "cause": "He was convicted of murder.", "effect": "The criminal was executed.", "conceptual_explanation": "Murder conviction leads to execution."}
+{"index": "train-290", "cause": "I opened the curtains.", "effect": "The sun shines into the room.", "conceptual_explanation": "Curtain opening allows sunlight entry."}
+{"index": "train-291", "cause": "Her wig fell out.", "effect": "I pulled the liar's hair.", "conceptual_explanation": "Wig dislodgement leads to hair pulling."}
+{"index": "train-292", "cause": "He thought that sentence was unclear.", "effect": "The editor rewrote a sentence in the manuscript.", "conceptual_explanation": "Sentence ambiguity prompts manuscript sentence revision."}
+{"index": "train-293", "cause": "She realized that the card was missing.", "effect": "The woman cancelled her credit card account.", "conceptual_explanation": "Card loss realization leads to account cancellation."}
+{"index": "train-294", "cause": "they got married.", "effect": "Man and woman fall in love.", "conceptual_explanation": "Marriage results in love emergence."}
+{"index": "train-295", "cause": "I turned up the volume.", "effect": "The music is too weak to hear.", "conceptual_explanation": "Volume increase coincides with weak music."}
+{"index": "train-296", "cause": "The girl is angry.", "effect": "The boy's hair stood up.", "conceptual_explanation": "Anger expression leads to hair raising."}
+{"index": "train-297", "cause": "I stepped on this bug.", "effect": "The bug was squashed.", "conceptual_explanation": "Bug stepping results in bug squashing."}
+{"index": "train-298", "cause": "I woke up.", "effect": "I opened my eyes.", "conceptual_explanation": "Awakening leads to eye opening."}
+{"index": "train-299", "cause": "I asked him to turn it off.", "effect": "My neighbor's music is loud.", "conceptual_explanation": "Music volume complaint prompts request."}
+{"index": "train-300", "cause": "He earns less than the minimum wage.", "effect": "The man's family lives in poverty.", "conceptual_explanation": "Low income leads to poverty."}
+{"index": "train-301", "cause": "He is looking for a job.", "effect": "This student graduated from university.", "conceptual_explanation": "Job search coincides with university graduation."}
+{"index": "train-302", "cause": "The paint turned green.", "effect": "The artist mixed yellow paint into blue paint.", "conceptual_explanation": "Green paint appearance results from blue-yellow mixing."}
+{"index": "train-303", "cause": "The conversation became tense.", "effect": "I changed the topic of conversation.", "conceptual_explanation": "Tense conversation prompts topic change."}
+{"index": "train-304", "cause": "I welcome him home.", "effect": "My brother was discharged from the hospital.", "conceptual_explanation": "Homecoming coincides with hospital discharge."}
+{"index": "train-305", "cause": "The first act of the performance began.", "effect": "The curtain on the stage opened.", "conceptual_explanation": "Performance start coincides with curtain opening."}
+{"index": "train-306", "cause": "The kidnapper threatened to hurt the hostages.", "effect": "The hostages obeyed the kidnappers.", "conceptual_explanation": "Threat of harm leads to hostage obedience."}
+{"index": "train-307", "cause": "The musician beats the drum.", "effect": "A rumbling sound echoed on the stage.", "conceptual_explanation": "Drum beating produces stage rumbling."}
+{"index": "train-308", "cause": "The child woke up from the nightmare and screamed.", "effect": "The parents rushed to the child's bedroom.", "conceptual_explanation": "Nightmare awakening prompts parental bedroom rush."}
+{"index": "train-309", "cause": "She was born deaf.", "effect": "The woman communicated with sign language.", "conceptual_explanation": "Deafness leads to sign language communication."}
+{"index": "train-310", "cause": "The crops are dead.", "effect": "There was a drought in the area.", "conceptual_explanation": "Crop death coincides with area drought."}
+{"index": "train-311", "cause": "The bird flew away.", "effect": "The cat chased the bird.", "conceptual_explanation": "Bird flight prompts cat pursuit."}
+{"index": "train-312", "cause": "She moved to a new town.", "effect": "The girl changed schools.", "conceptual_explanation": "Town relocation coincides with school change."}
+{"index": "train-313", "cause": "The employees continued to strike.", "effect": "The factory owner refused to raise the wages of his employees.", "conceptual_explanation": "Strike persistence prompts wage refusal."}
+{"index": "train-314", "cause": "The extremists assassinated him.", "effect": "This leader is fighting against extremists in his country.", "conceptual_explanation": "Assassination leads to counter-extremism fight."}
+{"index": "train-315", "cause": "The sand stabbed my foot.", "effect": "I walked barefoot on the beach.", "conceptual_explanation": "Foot stabbing prompts beach barefoot walking."}
+{"index": "train-316", "cause": "I put on sports pants.", "effect": "I woke up in the middle of the night feeling very cold.", "conceptual_explanation": "Pants wearing results in nighttime chill."}
+{"index": "train-317", "cause": "Her son grumbled.", "effect": "The mother quieted her son.", "conceptual_explanation": "Grumbling leads to mother silencing."}
+{"index": "train-318", "cause": "I tripped on the sidewalk.", "effect": "There is a hole in my jeans.", "conceptual_explanation": "Sidewalk tripping results in jeans tearing."}
+{"index": "train-319", "cause": "His teeth became straight.", "effect": "The boy wears braces.", "conceptual_explanation": "Teeth straightening prompts braces usage."}
+{"index": "train-320", "cause": "My muscles are sore when I woke up today.", "effect": "I worked out at the gym yesterday.", "conceptual_explanation": "Morning muscle soreness results from previous gym workout."}
+{"index": "train-321", "cause": "The other students at the table felt left out.", "effect": "Girls whisper to each other at the dinner table.", "conceptual_explanation": "Exclusion feeling prompts whispering."}
+{"index": "train-322", "cause": "She flew back into the air.", "effect": "The child fell on the trampoline.", "conceptual_explanation": "Airborne flight leads to trampoline fall."}
+{"index": "train-323", "cause": "The post office delivered the letter.", "effect": "I mailed the letter to the mailbox.", "conceptual_explanation": "Letter delivery coincides with mailbox dispatch."}
+{"index": "train-324", "cause": "He bet all the money.", "effect": "The gambler is very confident.", "conceptual_explanation": "Money betting leads to confidence."}
+{"index": "train-325", "cause": "The wind has become stronger.", "effect": "The forest fire spread.", "conceptual_explanation": "Wind strength increase coincides with fire spread."}
+{"index": "train-326", "cause": "His mother put a bandage on the wound.", "effect": "The child tore his knee.", "conceptual_explanation": "Bandage application precedes knee tearing."}
+{"index": "train-327", "cause": "He received an organ transplant.", "effect": "The man survived this deadly disease.", "conceptual_explanation": "Organ transplant leads to disease survival."}
+{"index": "train-328", "cause": "I burned my tongue.", "effect": "I took a sip of hot coffee.", "conceptual_explanation": "Tongue burning results from hot coffee sipping."}
+{"index": "train-329", "cause": "The author missed an important deadline.", "effect": "The editor fired the author.", "conceptual_explanation": "Deadline failure leads to author termination."}
+{"index": "train-330", "cause": "I studied all day.", "effect": "I feel exhausted.", "conceptual_explanation": "Extended study leads to exhaustion."}
+{"index": "train-331", "cause": "She confirmed the patient's symptoms.", "effect": "The doctor diagnoses the patient.", "conceptual_explanation": "Symptom confirmation precedes patient diagnosis."}
+{"index": "train-332", "cause": "It feels very itchy.", "effect": "I scratched my skin.", "conceptual_explanation": "Itch sensation prompts skin scratching."}
+{"index": "train-333", "cause": "He has a heart attack.", "effect": "The man underwent emergency surgery.", "conceptual_explanation": "Heart attack leads to emergency surgery."}
+{"index": "train-334", "cause": "He bent his arms.", "effect": "The man's arm muscles bulged.", "conceptual_explanation": "Arm bending results in muscle bulging."}
+{"index": "train-335", "cause": "He was surprised.", "effect": "The man raised his eyebrows.", "conceptual_explanation": "Surprise expression leads to eyebrow raising."}
+{"index": "train-336", "cause": "I believe his intentions are good.", "effect": "I forgave my colleagues' stupid mistakes.", "conceptual_explanation": "Good intention belief prompts mistake forgiveness."}
+{"index": "train-337", "cause": "He started to exercise more.", "effect": "The man quit smoking.", "conceptual_explanation": "Increased exercise coincides with smoking cessation."}
+{"index": "train-338", "cause": "The attacker began to bleed.", "effect": "The woman hit the attacker's nose with a fist.", "conceptual_explanation": "Bleeding onset prompts nose punching."}
+{"index": "train-339", "cause": "The man missed the target.", "effect": "The dart missed the bull's eye.", "conceptual_explanation": "Target miss results in bull's eye miss."}
+{"index": "train-340", "cause": "He found a mouse in the basement.", "effect": "The owner asked a murderer to come to his house.", "conceptual_explanation": "Mouse discovery prompts murderer invitation."}
+{"index": "train-341", "cause": "I am too tired to prepare for anything.", "effect": "I suggest my guests go out for dinner.", "conceptual_explanation": "Fatigue leads to dinner suggestion."}
+{"index": "train-342", "cause": "She began to hide the diary.", "effect": "The girl found out that her brother was reading her diary.", "conceptual_explanation": "Diary hiding leads to discovery."}
+{"index": "train-343", "cause": "She works overtime.", "effect": "The woman is short of money to pay the rent.", "conceptual_explanation": "Overtime work coincides with rent payment shortage."}
+{"index": "train-344", "cause": "He touched a hot stove.", "effect": "The child's hand quickly flinched.", "conceptual_explanation": "Hot stove touch leads to hand flinching."}
+{"index": "train-345", "cause": "They distributed a survey to customers.", "effect": "The company wants to measure customer satisfaction.", "conceptual_explanation": "Survey distribution prompts satisfaction measurement."}
+{"index": "train-346", "cause": "The boy dragged the chair across the floor.", "effect": "The wooden floor was scratched.", "conceptual_explanation": "Chair dragging leads to floor scratching."}
+{"index": "train-347", "cause": "My enemy raised his fist.", "effect": "I covered my face.", "conceptual_explanation": "Fist raising prompts face covering."}
+{"index": "train-348", "cause": "It was struck by lightning.", "effect": "This famous statue was burnt down.", "conceptual_explanation": "Lightning strike leads to statue burning."}
+{"index": "train-349", "cause": "The fruit was packed with flies.", "effect": "I forgot the fruit on the table.", "conceptual_explanation": "Fly presence prompts fruit forgetting."}
+{"index": "train-350", "cause": "She sprained her ankle.", "effect": "The ballet dancer tore the lace.", "conceptual_explanation": "Ankle sprain leads to lace tearing."}
+{"index": "train-351", "cause": "He ran around on the playground.", "effect": "The child's shoelaces were untied.", "conceptual_explanation": "Playground running coincides with shoelace loosening."}
+{"index": "train-352", "cause": "I forgot the time.", "effect": "I am obsessed with this book.", "conceptual_explanation": "Time forgetting prompts book obsession."}
+{"index": "train-353", "cause": "His parents influenced him.", "effect": "This person has beliefs similar to those of his parents.", "conceptual_explanation": "Parental influence results in belief similarity."}
+{"index": "train-354", "cause": "The gasoline ran out.", "effect": "The car gradually slowed to a stop.", "conceptual_explanation": "Gasoline depletion leads to car deceleration."}
+{"index": "train-355", "cause": "The ice cream dripped from the cone.", "effect": "The man ate ice cream in the sun.", "conceptual_explanation": "Ice cream dripping prompts sun exposure."}
+{"index": "train-356", "cause": "The walls look bare.", "effect": "I hang the artwork in the room.", "conceptual_explanation": "Bare walls prompt artwork hanging."}
+{"index": "train-357", "cause": "I have headache.", "effect": "I got off work very early.", "conceptual_explanation": "Headache presence leads to early work departure."}
+{"index": "train-358", "cause": "The owner scolded the puppy.", "effect": "The puppy soiled the carpet.", "conceptual_explanation": "Puppy scolding leads to carpet soiling."}
+{"index": "train-359", "cause": "My friend forgave me.", "effect": "I apologized to my friend.", "conceptual_explanation": "Friend forgiveness prompts apology."}
+{"index": "train-360", "cause": "He is wearing a neon vest.", "effect": "The man stood out from the crowd.", "conceptual_explanation": "Neon vest wearing leads to standing out."}
+{"index": "train-361", "cause": "He was accused of perjury.", "effect": "The witness lied after taking the oath.", "conceptual_explanation": "Perjury accusation leads to oath violation."}
+{"index": "train-362", "cause": "She wants a new look.", "effect": "The woman dyed her hair.", "conceptual_explanation": "Desire for new look leads to hair dyeing."}
+{"index": "train-363", "cause": "They were deported.", "effect": "These immigrants live in this country illegally.", "conceptual_explanation": "Deportation leads to illegal residency."}
+{"index": "train-364", "cause": "The audience laughed.", "effect": "The public spokesperson made a joke.", "conceptual_explanation": "Audience laughter coincides with joke delivery."}
+{"index": "train-365", "cause": "The sun blinded me.", "effect": "I look at the sun.", "conceptual_explanation": "Sun blindness prompts sun gazing."}
+{"index": "train-366", "cause": "I yawned.", "effect": "I feel very boring.", "conceptual_explanation": "Yawning presence leads to boredom."}
+{"index": "train-367", "cause": "The knife is blunt.", "effect": "Steak is difficult to cut.", "conceptual_explanation": "Blunt knife results in difficult steak cutting."}
+{"index": "train-368", "cause": "She got a huge debt.", "effect": "The woman declared bankruptcy.", "conceptual_explanation": "Debt accumulation leads to bankruptcy."}
+{"index": "train-369", "cause": "I decided to visit him.", "effect": "The light in my friend's apartment is on.", "conceptual_explanation": "Decision to visit prompts friend's apartment light being on."}
+{"index": "train-370", "cause": "I smell the fragrance of flowers.", "effect": "I put flowers under my nose.", "conceptual_explanation": "Flower fragrance prompts nose flower placement."}
+{"index": "train-371", "cause": "She met a childhood friend.", "effect": "Woman feels nostalgic.", "conceptual_explanation": "Childhood friend encounter prompts nostalgia."}
+{"index": "train-372", "cause": "The documents he submitted are incomplete.", "effect": "The student delays the article.", "conceptual_explanation": "Incomplete document submission leads to article delay."}
+{"index": "train-373", "cause": "I called a mechanic.", "effect": "My car broke down.", "conceptual_explanation": "Mechanic call coincides with car breakdown."}
+{"index": "train-374", "cause": "This is illegible.", "effect": "I discarded the note.", "conceptual_explanation": "Illegible note prompts note disposal."}
+{"index": "train-375", "cause": "It rises upward.", "effect": "The bird flapped its wings.", "conceptual_explanation": "Upward rise prompts wing flapping."}
+{"index": "train-376", "cause": "The garage is full.", "effect": "I parked the car in the driveway.", "conceptual_explanation": "Full garage prompts car driveway parking."}
+{"index": "train-377", "cause": "The victim raised his hands.", "effect": "The criminal aimed a gun at his victim.", "conceptual_explanation": "Victim hand-raising prompts criminal gun aiming."}
+{"index": "train-378", "cause": "I plan to attend my friend's wedding.", "effect": "I look forward to the weekend.", "conceptual_explanation": "Wedding attendance anticipation leads to weekend anticipation."}
+{"index": "train-379", "cause": "I am daydreaming.", "effect": "I forgot the time.", "conceptual_explanation": "Daydreaming coincides with time forgetting."}
+{"index": "train-380", "cause": "The printer is low on ink.", "effect": "The document is unrecognizable after printing.", "conceptual_explanation": "Low ink level results in document print quality deterioration."}
+{"index": "train-381", "cause": "The fans turned to the flag.", "effect": "The stadium played the national anthem.", "conceptual_explanation": "Fan flag turning prompts national anthem playing."}
+{"index": "train-382", "cause": "I put salt.", "effect": "The dip tasted bland.", "conceptual_explanation": "Salt addition aims to enhance dip flavor."}
+{"index": "train-383", "cause": "The towel absorbed the liquid.", "effect": "I put the paper towel on the overflow.", "conceptual_explanation": "Liquid absorption prompts paper towel placement."}
+{"index": "train-384", "cause": "She bookmarked that page.", "effect": "The woman was interrupted while reading.", "conceptual_explanation": "Page bookmarking coincides with reading interruption."}
+{"index": "train-385", "cause": "The man fastened his seat belt.", "effect": "The plane encountered some turbulence.", "conceptual_explanation": "Seat belt fastening precedes turbulence encounter."}
+{"index": "train-386", "cause": "The girl poked him.", "effect": "The boy flinched.", "conceptual_explanation": "Poking action prompts flinching response."}
+{"index": "train-387", "cause": "They amputated her leg.", "effect": "The doctor gave the patient a prosthesis.", "conceptual_explanation": "Leg amputation leads to prosthesis provision."}
+{"index": "train-388", "cause": "She yanked her arm away from him.", "effect": "The boy squeezed the girl's elbow.", "conceptual_explanation": "Arm yanking coincides with elbow squeezing."}
+{"index": "train-389", "cause": "I value his opinion.", "effect": "I ask my friends for advice.", "conceptual_explanation": "Opinion valuation prompts advice seeking."}
+{"index": "train-390", "cause": "Mud stuck to his shoes.", "effect": "The boy stepped in the mud.", "conceptual_explanation": "Shoe mud sticking leads to mud stepping."}
+{"index": "train-391", "cause": "The school is closed.", "effect": "A few inches of snow fell in this town.", "conceptual_explanation": "School closure coincides with snowfall."}
+{"index": "train-392", "cause": "He goes home for a day.", "effect": "The employee's shift ends.", "conceptual_explanation": "Day home visit coincides with shift termination."}
+{"index": "train-393", "cause": "The tree fell on the roof.", "effect": "The tree damaged the house.", "conceptual_explanation": "Roof tree fall leads to house damage."}
+{"index": "train-394", "cause": "I swung my axe into the wood.", "effect": "The wood was split in half.", "conceptual_explanation": "Axe wood swinging results in wood splitting."}
+{"index": "train-395", "cause": "The couple announced that they were going to have a baby.", "effect": "The family congratulated the couple.", "conceptual_explanation": "Baby announcement prompts couple congratulation."}
+{"index": "train-396", "cause": "She likes him.", "effect": "The girl gave the boy a Valentine's Day gift.", "conceptual_explanation": "Liking prompts gift giving."}
+{"index": "train-397", "cause": "I agree with him.", "effect": "I nodded to my friend's statement.", "conceptual_explanation": "Agreement coincides with statement affirmation."}
+{"index": "train-398", "cause": "They want to make a fair decision.", "effect": "Friends toss a coin.", "conceptual_explanation": "Fair decision desire prompts coin tossing."}
+{"index": "train-399", "cause": "The man took the pizza out of the oven.", "effect": "The kitchen timer went out.", "conceptual_explanation": "Pizza removal from oven coincides with timer expiration."}
+{"index": "train-400", "cause": "She works very hard.", "effect": "This woman has set an ambitious goal.", "conceptual_explanation": "Hard work leads to ambitious goal setting."}
+{"index": "train-401", "cause": "His son inherited his property.", "effect": "The rich man died of old age.", "conceptual_explanation": "Property inheritance coincides with old age death."}
+{"index": "train-402", "cause": "The flame went out.", "effect": "The woman stepped on the flame.", "conceptual_explanation": "Flame extinguishing leads to flame stepping."}
+{"index": "train-403", "cause": "She had a car accident.", "effect": "The woman's car is in the shop.", "conceptual_explanation": "Car accident results in car repair."}
+{"index": "train-404", "cause": "I missed breakfast.", "effect": "I slept with the alarm clock.", "conceptual_explanation": "Breakfast skipping coincides with alarm clock sleeping."}
+{"index": "train-405", "cause": "The camera flashed in his direction.", "effect": "Public figures came out of the limousine.", "conceptual_explanation": "Camera flash prompts limousine exit."}
+{"index": "train-406", "cause": "The bath water became very lukewarm.", "effect": "The woman stayed in the bathtub.", "conceptual_explanation": "Lukewarm water temperature leads to bathtub occupancy."}
+{"index": "train-407", "cause": "He joined a brotherhood.", "effect": "This college student wants to meet other students on campus.", "conceptual_explanation": "Brotherhood joining prompts campus socializing."}
+{"index": "train-408", "cause": "I'm looking for change.", "effect": "I lifted the sofa cushion.", "conceptual_explanation": "Change searching leads to cushion lifting."}
+{"index": "train-409", "cause": "The boy ran away.", "effect": "The wasp flew to the boy.", "conceptual_explanation": "Boy fleeing prompts wasp approach."}
+{"index": "train-410", "cause": "She was convicted of community service.", "effect": "The woman was convicted of a misdemeanor.", "conceptual_explanation": "Community service conviction coincides with misdemeanor conviction."}
+{"index": "train-411", "cause": "The sugar has dissolved.", "effect": "I stir the sugar into the hot tea.", "conceptual_explanation": "Sugar dissolving prompts tea stirring."}
+{"index": "train-412", "cause": "He was injured in the battle.", "effect": "The veteran walked with a limp.", "conceptual_explanation": "Battle injury leads to limping."}
+{"index": "train-413", "cause": "The police chased the criminal.", "effect": "The criminal escaped from the police.", "conceptual_explanation": "Police chasing prompts criminal escape."}
+{"index": "train-414", "cause": "I fell.", "effect": "The laptop cannot be turned on.", "conceptual_explanation": "Falling leads to laptop malfunction."}
+{"index": "train-415", "cause": "She bought a spacious wardrobe.", "effect": "There is no room in the woman's wardrobe.", "conceptual_explanation": "Spacious wardrobe acquisition leads to wardrobe space shortage."}
+{"index": "train-416", "cause": "His wife left him.", "effect": "The man was very sad.", "conceptual_explanation": "Wife departure results in sadness."}
+{"index": "train-417", "cause": "He is qualified for the job he wants.", "effect": "The man got his degree.", "conceptual_explanation": "Job qualification leads to degree attainment."}
+{"index": "train-418", "cause": "He spoke on the microphone.", "effect": "The man's voice was clearly visible in the auditorium.", "conceptual_explanation": "Microphone speaking coincides with voice audibility."}
+{"index": "train-419", "cause": "The coin sank to the bottom.", "effect": "I threw a coin into the fountain.", "conceptual_explanation": "Coin sinking prompts fountain tossing."}
+{"index": "train-420", "cause": "The ball went into the hole.", "effect": "The player hit the ball to the hole.", "conceptual_explanation": "Ball hole entry coincides with ball hitting action."}
+{"index": "train-421", "cause": "I sneeze.", "effect": "I breathe in the dust in the attic.", "conceptual_explanation": "Sneezing prompts attic dust inhalation."}
+{"index": "train-422", "cause": "Customers use counterfeit money.", "effect": "The store cashier called the security guard.", "conceptual_explanation": "Counterfeit money usage leads to security guard summoning."}
+{"index": "train-423", "cause": "Garbage makes the kitchen smell bad.", "effect": "I take out the garbage.", "conceptual_explanation": "Bad smell induction prompts garbage disposal."}
+{"index": "train-424", "cause": "The children admire the animals.", "effect": "The family went to the zoo.", "conceptual_explanation": "Animal admiration prompts zoo visit."}
+{"index": "train-425", "cause": "His lungs are congested.", "effect": "The man's breathing was loud.", "conceptual_explanation": "Lung congestion results in loud breathing."}
+{"index": "train-426", "cause": "I asked my friend if he was interested in going.", "effect": "I have a ticket for the concert.", "conceptual_explanation": "Interest inquiry leads to concert ticket possession."}
+{"index": "train-427", "cause": "I opened the window.", "effect": "The air conditioner in the house is broken.", "conceptual_explanation": "Window opening coincides with air conditioner malfunction."}
+{"index": "train-428", "cause": "His backpack is very heavy.", "effect": "The boy's back pain.", "conceptual_explanation": "Heavy backpack leads to back pain."}
+{"index": "train-429", "cause": "It was her birthday.", "effect": "I bought a gift for my mother.", "conceptual_explanation": "Birthday occurrence prompts gift purchase."}
+{"index": "train-430", "cause": "The squirrel dug up its roots.", "effect": "The daffodils in the garden were destroyed.", "conceptual_explanation": "Root digging results in garden destruction."}
+{"index": "train-431", "cause": "The match produced a flame.", "effect": "I lighted a match.", "conceptual_explanation": "Flame production leads to match lighting."}
+{"index": "train-432", "cause": "They don't want to argue in court.", "effect": "The disputed parties reached a settlement.", "conceptual_explanation": "Court argument avoidance leads to settlement."}
+{"index": "train-433", "cause": "Their parents are dead.", "effect": "The children were sent to an orphanage.", "conceptual_explanation": "Parent death prompts orphanage placement."}
+{"index": "train-434", "cause": "The tsunami happened.", "effect": "A meteorite fell into the sea.", "conceptual_explanation": "Tsunami occurrence prompts sea meteorite fall."}
+{"index": "train-435", "cause": "She panicked.", "effect": "The hiker encountered a poisonous snake.", "conceptual_explanation": "Panic occurrence coincides with snake encounter."}
+{"index": "train-436", "cause": "I turn on the oven.", "effect": "The oven is getting hot.", "conceptual_explanation": "Oven activation leads to heating."}
+{"index": "train-437", "cause": "The lemon spouts.", "effect": "I squeezed the lemon wedges.", "conceptual_explanation": "Lemon juice spouting prompts wedge squeezing."}
+{"index": "train-438", "cause": "This country has colonized this land.", "effect": "New land has been discovered in this country.", "conceptual_explanation": "Land colonization leads to land discovery."}
+{"index": "train-439", "cause": "It broke to the ground.", "effect": "The glass fell off the table.", "conceptual_explanation": "Ground breakage coincides with table glass displacement."}
+{"index": "train-440", "cause": "The floor is uneven.", "effect": "The table is shaking.", "conceptual_explanation": "Uneven floor results in table shaking."}
+{"index": "train-441", "cause": "His son confessed the truth.", "effect": "The father found out that his son was lying.", "conceptual_explanation": "Truth confession leads to lie discovery."}
+{"index": "train-442", "cause": "He took aspirin.", "effect": "The man's head quivered with pain.", "conceptual_explanation": "Aspirin ingestion coincides with pain quivering."}
+{"index": "train-443", "cause": "It is approaching the station.", "effect": "The train slowed down.", "conceptual_explanation": "Station approach prompts train deceleration."}
+{"index": "train-444", "cause": "He was diagnosed with depression.", "effect": "The man received treatment.", "conceptual_explanation": "When someone is diagnosed with depression, it often leads to receiving treatment to alleviate symptoms and improve mental health."}
+{"index": "train-445", "cause": "She was choked with food.", "effect": "The woman grabbed her throat.", "conceptual_explanation": "Choking on food prompts throat grabbing."}
+{"index": "train-446", "cause": "Her voice sounded harsh.", "effect": "The woman has a sore throat.", "conceptual_explanation": "Harsh voice leads to sore throat."}
+{"index": "train-447", "cause": "It drools.", "effect": "The dog looks at the juicy steak on the table.", "conceptual_explanation": "Drooling prompts steak observation."}
+{"index": "train-448", "cause": "She became rich.", "effect": "This woman's business has succeeded.", "conceptual_explanation": "Wealth acquisition coincides with business success."}
+{"index": "train-449", "cause": "the bell rang.", "effect": "The students left the classroom.", "conceptual_explanation": "Bell ringing prompts classroom exit."}
+{"index": "train-450", "cause": "Her acquaintances expressed doubts.", "effect": "The woman claimed that she saw a ghost.", "conceptual_explanation": "Doubt expression coincides with ghost sighting claim."}
+{"index": "train-451", "cause": "He almost died in the explosion.", "effect": "The man lost his hearing.", "conceptual_explanation": "Near-death experience coincides with hearing loss."}
+{"index": "train-452", "cause": "The balloon rose into the air.", "effect": "The child let go of the balloon string.", "conceptual_explanation": "Balloon ascent prompts string release."}
+{"index": "train-453", "cause": "He had a stroke.", "effect": "The man lost the ability to speak.", "conceptual_explanation": "Stroke occurrence leads to speech loss."}
+{"index": "train-454", "cause": "The cement has cracks.", "effect": "The woman tripped on the sidewalk.", "conceptual_explanation": "Cracked cement results in sidewalk tripping."}
+{"index": "train-455", "cause": "The man soaked the lifeguard.", "effect": "The man jumped into the pool in a cannon style.", "conceptual_explanation": "Lifeguard soaking prompts cannon-style pool entry."}
+{"index": "train-456", "cause": "My infection has been cleared.", "effect": "I took antibiotics.", "conceptual_explanation": "Infection clearance prompts antibiotic usage."}
+{"index": "train-457", "cause": "The driver stepped on the brake.", "effect": "The traffic light turned yellow.", "conceptual_explanation": "Brake pressing coincides with traffic light change."}
+{"index": "train-458", "cause": "I put the container on the hot stove.", "effect": "The plastic container melted.", "conceptual_explanation": "Container placement on hot stove results in melting."}
+{"index": "train-459", "cause": "The driver hit a telephone pole.", "effect": "The car is sunken.", "conceptual_explanation": "Telephone pole collision leads to car sinking."}
+{"index": "train-460", "cause": "He passed the exam.", "effect": "The boy studied all night.", "conceptual_explanation": "Exam passing prompts overnight studying."}
+{"index": "train-461", "cause": "He is afraid of learning to swim.", "effect": "The little boy clung to the edge of the pool.", "conceptual_explanation": "Swimming fear leads to pool edge clinging."}
+{"index": "train-462", "cause": "I feel my heartbeat.", "effect": "I put my hand on my chest.", "conceptual_explanation": "Heartbeat perception prompts chest touching."}
+{"index": "train-463", "cause": "My office is very noisy.", "effect": "The building next to my office is under construction.", "conceptual_explanation": "Noisy office coincides with nearby construction."}
+{"index": "train-464", "cause": "The family invited their neighbors over for dinner.", "effect": "The family wants to get to know their new neighbor.", "conceptual_explanation": "Neighbor dinner invitation prompts new neighbor acquaintance."}
+{"index": "train-465", "cause": "The swimmer jumped into the swimming pool.", "effect": "Water splashed from the pool.", "conceptual_explanation": "Swimmer pool entry results in pool water splashing."}
+{"index": "train-466", "cause": "I accidentally swallowed a seed.", "effect": "I bit a slice of watermelon.", "conceptual_explanation": "Seed swallowing leads to watermelon consumption."}
+{"index": "train-467", "cause": "His shoelaces were untied.", "effect": "The boy was tripped.", "conceptual_explanation": "Untied shoelaces result in tripping."}
+{"index": "train-468", "cause": "She was distracted by the noise.", "effect": "The woman inserted earplugs.", "conceptual_explanation": "Noise distraction prompts earplug insertion."}
+{"index": "train-469", "cause": "I drank all the water in it.", "effect": "I refilled the water bottle.", "conceptual_explanation": "Water consumption leads to bottle refilling."}
+{"index": "train-470", "cause": "It contains vulgar language.", "effect": "This TV show is under censorship.", "conceptual_explanation": "Vulgar language presence prompts show censorship."}
+{"index": "train-471", "cause": "The crew drowned.", "effect": "The ship wrecked.", "conceptual_explanation": "Crew drowning coincides with ship wreckage."}
+{"index": "train-472", "cause": "He asked for a reminder.", "effect": "The boy was stumped by the riddle.", "conceptual_explanation": "Reminder request prompts riddle puzzlement."}
+{"index": "train-473", "cause": "The man picked up the phone.", "effect": "The phone rang.", "conceptual_explanation": "Phone lifting coincides with ringing."}
+{"index": "train-474", "cause": "I feel uncomfortable.", "effect": "The woman stared at me.", "conceptual_explanation": "Discomfort feeling prompts staring."}
+{"index": "train-475", "cause": "They saw all the exhibits.", "effect": "The group left the museum.", "conceptual_explanation": "Exhibit viewing completion prompts museum exit."}
+{"index": "train-476", "cause": "My friends support me.", "effect": "The man quarreled with me.", "conceptual_explanation": "Friend support coincides with quarreling."}
+{"index": "train-477", "cause": "I pour air into the tires.", "effect": "The tires on my bicycle are flat.", "conceptual_explanation": "Air pouring into tires leads to flatness."}
+{"index": "train-478", "cause": "Her father felt her forehead.", "effect": "The girl was pale.", "conceptual_explanation": "Forehead feeling coincides with paleness."}
+{"index": "train-479", "cause": "I used a pencil.", "effect": "The pen has run out of ink.", "conceptual_explanation": "Pencil usage results in pen ink depletion."}
+{"index": "train-480", "cause": "He is heavily in debt.", "effect": "The man was refused a loan.", "conceptual_explanation": "Debt accumulation leads to loan denial."}
+{"index": "train-481", "cause": "She has chickenpox.", "effect": "The girl stays at home after school.", "conceptual_explanation": "Chickenpox contraction prompts post-school home stay."}
+{"index": "train-482", "cause": "I took it to the trash can.", "effect": "The garbage bag is full.", "conceptual_explanation": "Trash can transport results in bag fullness."}
+{"index": "train-483", "cause": "My dog bis shed hair.", "effect": "I vacuumed the carpet.", "conceptual_explanation": "Dog shedding prompts carpet vacuuming."}
+{"index": "train-484", "cause": "He threw a chair across the room.", "effect": "The man lost his temper.", "conceptual_explanation": "Chair throwing leads to temper loss."}
+{"index": "train-485", "cause": "The branches are scorched.", "effect": "The girl threw a branch into the campfire.", "conceptual_explanation": "Scorched branches prompt campfire addition."}
+{"index": "train-486", "cause": "The hot water is gone.", "effect": "The man came out of the shower.", "conceptual_explanation": "Hot water depletion prompts shower exit."}
+{"index": "train-487", "cause": "They set aside a savings fund for tuition.", "effect": "Parents want their children to go to college.", "conceptual_explanation": "Tuition fund allocation coincides with college aspiration."}
+{"index": "train-488", "cause": "The shoes are loose.", "effect": "The man untied his shoes.", "conceptual_explanation": "Loose shoes result in shoe untying."}
+{"index": "train-489", "cause": "He refrigerated the leftovers.", "effect": "The man ate half of the main dish.", "conceptual_explanation": "Leftover refrigeration prompts main dish consumption."}
+{"index": "train-490", "cause": "I put ice on the ice.", "effect": "My ankle is swollen.", "conceptual_explanation": "Ice application leads to ankle swelling."}
+{"index": "train-491", "cause": "I overheard the conversation in the hall.", "effect": "My office door is open.", "conceptual_explanation": "Conversation overhearing coincides with door opening."}
+{"index": "train-492", "cause": "I browsed a magazine.", "effect": "I have to wait in line.", "conceptual_explanation": "Magazine browsing prompts line waiting."}
+{"index": "train-493", "cause": "The flies buzzed away.", "effect": "The man hit the fly hard.", "conceptual_explanation": "Fly buzzing prompts hard hitting."}
+{"index": "train-494", "cause": "He is dying.", "effect": "The man wrote a will.", "conceptual_explanation": "Impending death leads to will writing."}
+{"index": "train-495", "cause": "He quickened his pace.", "effect": "The runner felt his rival approaching.", "conceptual_explanation": "Pace acceleration coincides with rival approach perception."}
+{"index": "train-496", "cause": "I came up with a solution.", "effect": "I considered this question carefully.", "conceptual_explanation": "Solution formulation prompts question contemplation."}
+{"index": "train-497", "cause": "He felt scared.", "effect": "The traveler walked on the crumbling suspension bridge.", "conceptual_explanation": "Fear feeling coincides with bridge crossing."}
+{"index": "train-498", "cause": "He bet with his friends.", "effect": "The man expected the team to win.", "conceptual_explanation": "Friend betting prompts team victory expectation."}
+{"index": "train-499", "cause": "He counted the sheep.", "effect": "The boy can't sleep.", "conceptual_explanation": "Sheep counting leads to insomnia."}
