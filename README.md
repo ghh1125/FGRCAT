@@ -23,7 +23,7 @@
     --gpu "0" \
     --batch_size 64 \
     --cuda True\
-    --epochs 100 \
+    --epochs 50 \
     --evaluation_step 200 \
     --lr 1e-5 \
     --set_seed True \
