@@ -10,7 +10,7 @@
 
   ```shell
   python3 train_discriminate.py \
-    --data_dir "../dataset/Causal_Reasoning/" \
+    --data_dir "../dataset/" \
     --model_dir "../../huggingface_transformers/bart-base/" \
     --save_dir "./output/saved_model" \
     --log_dir "./output/log" \
