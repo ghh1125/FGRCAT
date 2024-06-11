@@ -1,10 +1,12 @@
 # Paper Title：FGRCAT: A Fine-Grained Reasoning Framework through Causality and Adversarial Training
 
 
-## python = 3.6
-## torch = 2.1.2
-## transformers = 4.30.2
-## scikit-learn = 1.30.2
+#### python = 3.6
+#### torch = 2.1.2
+#### transformers = 4.30.2
+#### scikit-learn = 1.30.2
+
+#### ghh1125@zjnu.edu.cn
 
 
 
