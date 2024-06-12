@@ -11,9 +11,9 @@
 
 
   ```shell
-  python3 train_discriminate.py \
-    --data_dir "../dataset/" \
-    --model_dir "../../huggingface_transformers/bart-base/" \
+  python3 train_discriminate.py \   # or you can choose QAtrain.py (QA datasets)
+    --data_dir "../dataset/" \    # choose datasets
+    --model_dir "../../huggingface_transformers/bart-base/" \       # choose model(huggingface)
     --save_dir "./output/saved_model" \
     --log_dir "./output/log" \
     --train "train.jsonl" \
@@ -29,6 +29,6 @@
     --set_seed True \
     --seed 338 \
     --patient 3 \
-    --loss_func "BCE" \
+    --loss_func "BCE" \  # choose loss function
   ```
 
