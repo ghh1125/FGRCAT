@@ -19,6 +19,15 @@
 
 ## Run
 
+```bash
+conda create -n FGRCAT python=3.9
+conda activate FGRCAT
+pip install -r requirements.txt
+```
+
+
+
+
   ```shell
   python3 train_discriminate.py \   # or you can choose QAtrain.py (QA datasets)
     --data_dir "../dataset/" \    # choose datasets
